@@ -177,7 +177,7 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ichoose.coach
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -252,7 +252,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: ichoose.coach
   header:
     all_recordings: All Recordings
     dropdown:
@@ -276,12 +276,12 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
-    video: Watch our tutorial on using Greenlight
+    about: "This is a simple front-end for our web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    welcome: Welcome to ICHOOSE.COACH!
+    video: Watch our tutorial on using this!
     upgrade: Show me how to upgrade to 2.0!
-    version: We've released a new version of Greenlight, but your database isn't compatible.
-  language_default: Default (browser language)
+    version: We've released a new version of this, but your database isn't compatible.
+  language_default: en
   ldap_error: Unable to connect to the LDAP server. Please check your LDAP configuration in the env file and ensure your server is running.
   login: Sign in
   login_title: Sign in to your account
@@ -313,7 +313,7 @@ en:
           admins_link: Visit the Organization Page
           subject: New Greenlight User Sign Up
           username: The user signed up with the name %{name} and the email %{email}.
-        subject: Invitation to join BigBlueButton
+        subject: Invitation to join a VideoConference
         username: Your username is %{email}.
       password_reset:
         title: 'Password reset'
